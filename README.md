@@ -10,9 +10,9 @@ The UN data was cleaned by removing all of the regional level categories (i.e. â
 # Using this application
 This application can be run by using the following steps
 - Installing the R shiny library from the CRAN repository
-- Downloading the files associated with application from the archive https://github.com/ericjhoward/Shiny/archive/master.zip
+- Download the files associated with application from the archive https://github.com/ericjhoward/Shiny/archive/master.zip
 - Unzip the folder into a directory of your choice
-- Run the application using the following code R code:
+- Run the application using the following R code:
 ```R 
 #Load the shiny library
 library(shiny)
